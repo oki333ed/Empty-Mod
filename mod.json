@@ -1,0 +1,18 @@
+{
+	"geode": "4.6.3",
+	"gd": {
+		"win": "*",
+		"android": "*",
+		"mac": "*",
+		"ios": "*"
+	},
+	"id": "oki3ed.empty_mod",
+	"name": "Empty Mod",
+	"version": "v1.0.0",
+	"developer": "oki3ed",
+	"description": "99999999 features in one mod.",
+	"links": {
+		"homepage": "https://t.me/oki333ed",
+		"source": "https://github.com/oki333ed/empty-mod"
+	}
+}
